@@ -1,4 +1,6 @@
+require('./aurora.js');
 (function() {
+    var AV = window.AV;
 
 /*
  * FLAC.js - Free Lossless Audio Codec decoder in JavaScript
